@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:01377D,50:009BCE,100:24B16D&text=Alina%20Kayani&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Software%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=58&descColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=009BCE&text=Alina%20Kayani&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%26%20Software%20Engineer&descAlignY=60&descColor=FFFFFF"/>
 
 <br/>
 
@@ -256,6 +256,6 @@ CGPA: **3.75 / 4.00** | Relevant Coursework: Machine Learning, Artificial Intell
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:01377D,50:009BCE,100:24B16D&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=009BCE"/>
 
 </div>
