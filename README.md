@@ -210,7 +210,7 @@ CGPA: **3.75 / 4.00** | Relevant Coursework: Machine Learning, Artificial Intell
 
 <div align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Alina-Kayani&theme=algolia&hide_border=true"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=Alina-Kayani&theme=tokyonight&hide_border=true"/>
 
 </div>
 
