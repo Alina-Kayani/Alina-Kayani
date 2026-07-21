@@ -1,18 +1,241 @@
-# 💫 About Me:
-Software Engineering graduate with a strong foundation in web and mobile app development. Passionate about building impactful applications with AI integration and modern technologies like MERN stack and Android (Kotlin). Focused on writing clean, scalable code and continuously learning to stay ahead in tech.<br>
+<!-- ===================================================== -->
+<!--                AI ENGINEER GITHUB PROFILE             -->
+<!--                  Created for Alina Kayani          -->
+<!--         Palette: 01377D · 009BCE · 97E7F5 · 7CD348 · 24B16D -->
+<!-- ===================================================== -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/alinakayani.codes) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/designbyalina) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Alina kayani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kayani_alina_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alina Kayani) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@codewithalina) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Peoplecallmealina) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Alina Kayani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alinakayani25462@gmail.com) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:01377D,50:009BCE,100:24B16D&text=Habiba%20Tanveer&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20Developer%20%7C%20Machine%20Learning&descAlignY=58&descColor=FFFFFF"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Alina-Kayani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Alina-Kayani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alina-Kayani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=009BCE&center=true&vCenter=true&width=750&lines=Building+RAG+pipelines+with+LangChain;Working+with+LLMs+%26+Vector+Databases;Android+%2B+AI+%7C+Java+%2F+Kotlin+%2F+Flutter+%2F+TensorFlow;Turning+ideas+into+shipped+products" alt="Typing SVG"/>
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/alina-kayani/">
+  <img src="https://img.shields.io/badge/LinkedIn-01377D?style=for-the-badge&logo=linkedin&logoColor=97E7F5"/>
+</a>
+
+<a href="mailto:alinakayani9856@gmail.com">
+  <img src="https://img.shields.io/badge/Email-24B16D?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Alina-Kayani">
+  <img src="https://img.shields.io/badge/GitHub-009BCE?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Alina-Kayani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💡 About Me
+
+AI Engineer passionate about **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **AI Agents**, and **Machine Learning**. I enjoy designing intelligent systems that solve real-world problems and continuously explore emerging AI technologies to build impactful applications.
+
+- 🤖 Building AI-powered applications using LLMs, LangChain & RAG
+- 🔍 Working with Vector Databases, Embeddings & Semantic Search
+- 📱 Android Development using Java, Kotlin & Firebase
+- 🧠 Exploring AI Agents, MCP, Prompt Engineering & Enterprise AI
+- 🌱 Lifelong learner focused on creating practical AI solutions
+
+---
+
+### 🛠️ Skills
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/-Python-01377D?style=flat-square&logo=python&logoColor=97E7F5)
+![LangChain](https://img.shields.io/badge/-LangChain-01377D?style=flat-square&logo=chainlink&logoColor=7CD348)
+![RAG](https://img.shields.io/badge/-RAG-01377D?style=flat-square&logo=databricks&logoColor=97E7F5)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-01377D?style=flat-square&logo=tensorflow&logoColor=7CD348)
+![PyTorch](https://img.shields.io/badge/-PyTorch-01377D?style=flat-square&logo=pytorch&logoColor=97E7F5)
+![OpenCV](https://img.shields.io/badge/-OpenCV-01377D?style=flat-square&logo=opencv&logoColor=7CD348)
+
+**Android**
+
+![Java](https://img.shields.io/badge/-Java-009BCE?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-009BCE?style=flat-square&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-009BCE?style=flat-square&logo=firebase&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-24B16D?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-24B16D?style=flat-square&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-24B16D?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-24B16D?style=flat-square&logo=linux&logoColor=white)
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,tensorflow,pytorch,firebase,androidstudio,git,github,mysql,vscode,linux&theme=dark"/>
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+| 🚀 Technology | 📈 Progress | 🎯 Focus |
+|:--------------|:----------:|:---------|
+| 🤖 Large Language Models (LLMs) | █████████░ 90% | Prompt Engineering, Tokenization, Transformers |
+| 🔗 LangChain | ████████░░ 85% | Chains, Memory, Runnables, Tools |
+| 🧠 Retrieval-Augmented Generation (RAG) | ████████░░ 85% | Chunking, Embeddings, Retrieval Pipelines |
+| 🤖 AI Agents | ███████░░░ 75% | Tool Calling, Multi-Agent Systems |
+| 📦 FAISS | ████████░░ 80% | Similarity Search & Vector Indexing |
+| 💾 ChromaDB | ███████░░░ 75% | Persistent Vector Database |
+| ☁️ Azure AI Foundry | ██████░░░░ 60% | AI Studio & Agent Development |
+| ⚡ MCP (Model Context Protocol) | █████░░░░░ 50% | Tool Integration |
+| 🐍 Python for AI | █████████░ 90% | FastAPI, APIs, AI Development |
+| 📱 Flutter | ███████░░░ 70% | Cross Platform Development |
+
+</div>
+
+<div align="center">
+
+> 💡 **Currently building:** RAG Applications • AI Agents • LLM-powered Chatbots • Enterprise AI Solutions
+
+</div>
+
+---
+
+### 🚀 Featured Project
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%">
+
+#### 🦯 Bazm-e-Raah
+
+**Voice-first assistive Android application for visually impaired users.**
+
+A complete accessibility solution combining on-device AI, real-time object and face recognition, and hardware integration to help visually impaired users navigate the world independently.
+
+- 🎯 On-device object detection with **TensorFlow Lite**
+- 👤 Face recognition using **ML Kit / FaceNet**
+- 🎙️ Voice-first interaction via **TTS / STT**
+- ☁️ **Firebase** backend for data sync and auth
+- 🔌 **Raspberry Pi** hardware integration
+- 🚨 Emergency calling and live weather updates
+
+`Java` `TensorFlow Lite` `ML Kit` `FaceNet` `Firebase` `Raspberry Pi`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+---
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibatanveer20&theme=algolia"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibatanveer20&theme=algolia"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habibatanveer20&theme=algolia&utcOffset=5"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibatanveer20&theme=algolia"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habibatanveer20&theme=algolia"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="80%" src="https://streak-stats.demolab.com?user=habibatanveer20&theme=algolia&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=habibatanveer20&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</div>
+
+---
+
+### 🗺️ Roadmap
+
+| Goal | Status |
+|:---|:---:|
+| Python / Java / Kotlin | ✅ |
+| Android Development | ✅ |
+| Machine Learning | ✅ |
+| Deep Learning | 🔄 |
+| LangChain & RAG | 🔄 |
+| AI Agents | 🔄 |
+| Fine-tuning LLMs | 🔜 |
+| Open source contributions | 🔜 |
+| Ship a production AI product | 🔜 |
+
+---
+
+### 🏅 Certifications
+
+![](https://img.shields.io/badge/Machine%20Learning-01377D?style=flat-square&logoColor=97E7F5)
+![](https://img.shields.io/badge/Python-009BCE?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Git%20%26%20GitHub-01377D?style=flat-square&logoColor=97E7F5)
+![](https://img.shields.io/badge/Android%20Development-009BCE?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Firebase-24B16D?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/RAG%20Systems-01377D?style=flat-square&logoColor=97E7F5)
+![](https://img.shields.io/badge/LangChain-24B16D?style=flat-square&logoColor=white)
+
+---
+
+---
+
+<div align="center">
+
+## 🚀 Thanks for Visiting My Profile
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1200&color=009BCE&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+RAG+Developer+%7C+Machine+Learning;Building+Intelligent+Systems+for+Real-World+Impact.;Learning+Every+Day.+Building+Every+Day.;Open+to+Collaboration+and+Innovative+Projects."/>
+
+<br>
+
+### *"Transforming ideas into intelligent solutions through AI, continuous learning, and innovation."*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=habibatanveer20&style=for-the-badge&color=009BCE&label=Profile+Views"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:01377D,50:009BCE,100:24B16D&animation=twinkling"/>
+
+</div>
